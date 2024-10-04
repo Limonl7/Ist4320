@@ -1,0 +1,2 @@
+This file contains notes:
+- I am learning how to use Git Version control. 
